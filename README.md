@@ -9,7 +9,7 @@ IT support and client operations professional with experience in technical suppo
 - 🇬🇧 [CV B — Backend & Application Support](./Oriol_Valls_CV_B_Backend_Application_Support_EN.pdf)
 - 🇪🇸 [CV B — Backend y Soporte de Aplicaciones](./Oriol_Valls_CV_B_Backend_Soporte_Aplicaciones_ES.pdf)
 
-CV A focuses on technical support, IT operations and client operations. CV B gives more emphasis to application support, PHP/Laravel and backend systems.
+The two CV versions reflect different areas of my experience: CV A focuses on technical support, IT operations and client operations, while CV B places more emphasis on application support, PHP/Laravel and backend systems.
 
 ## Professional focus
 
@@ -23,7 +23,7 @@ CV A focuses on technical support, IT operations and client operations. CV B giv
 
 - Client Operations Specialist at Cero Agency — B2B contractor via Valls Solutions LLC
 - Senior ICT Technician / Systems Administrator at Foment Formació
-Additional experience includes technical research in blockchain security and risk analysis, as well as creating and managing live-stream content on Twitch.
+- Additional experience includes technical research in blockchain security and risk analysis, as well as creating and managing live-stream content on Twitch.
 
 ## Availability
 
