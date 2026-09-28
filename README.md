@@ -11,7 +11,7 @@ The following one-page PDF versions are the current application-ready CVs:
 - 🇬🇧 [CV B — Backend & Application Support](./Oriol_Valls_CV_B_Backend_Application_Support_EN.pdf)
 - 🇪🇸 [CV B — Backend y Soporte de Aplicaciones](./Oriol_Valls_CV_B_Backend_Soporte_Aplicaciones_ES.pdf)
 
-Use the English versions for international applications and the Spanish versions for Spanish-language opportunities. CV A is oriented toward technical support, IT operations and client operations; CV B gives more emphasis to application support, PHP/Laravel and backend systems.
+CV A focuses on technical support, IT operations and client operations. CV B gives more emphasis to application support, PHP/Laravel and backend systems.
 
 ## Professional focus
 
