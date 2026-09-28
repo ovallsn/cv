@@ -1,34 +1,44 @@
-# Oriol Valls — Resume
+# Oriol Valls — IT Support & Application Support
 
-This repository contains my latest professional resumes aligned with cloud systems administration, backend development, and IT operations roles.
+Remote IT support and client operations professional focused on technical support, application support, systems administration and operational workflows.
 
----
+## CVs
 
-## 📄 Download
+The following one-page PDF versions are the current application-ready CVs:
 
-- 🇬🇧 [English CV — Systems Administrator / Cloud Backend](./Oriol_Valls_Systems_Administrator_Cloud_Backend_EN.pdf)
-- 🇪🇸 [CV en Español — Administrador de Sistemas Cloud / Backend](./Oriol_Valls_Administrador_Sistemas_Cloud_Backend_ES.pdf)
+- 🇬🇧 [CV A — Technical Support & Client Operations](./Oriol_Valls_CV_A_Technical_Support_Client_Operations_EN.pdf)
+- 🇪🇸 [CV A — Soporte Técnico y Operaciones de Clientes](./Oriol_Valls_CV_A_Soporte_Tecnico_Operaciones_Cliente_ES.pdf)
+- 🇬🇧 [CV B — Backend & Application Support](./Oriol_Valls_CV_B_Backend_Application_Support_EN.pdf)
+- 🇪🇸 [CV B — Backend y Soporte de Aplicaciones](./Oriol_Valls_CV_B_Backend_Soporte_Aplicaciones_ES.pdf)
 
----
+Use the English versions for international applications and the Spanish versions for Spanish-language opportunities. CV A is oriented toward technical support, IT operations and client operations; CV B gives more emphasis to application support, PHP/Laravel and backend systems.
 
-## 🔧 Technical Focus
+## Professional focus
 
-- Cloud Systems Administration (Linux, Google Workspace, Microsoft 365)
-- Backend Development (Laravel, SQL, Python)
-- IT Operations & Infrastructure Automation
-- Security Analysis & Blockchain Investigation
+- Technical Support, Application Support and Troubleshooting
+- IT Operations and systems administration
+- Linux, Windows, SQL, Laravel/PHP and REST APIs
+- Google Workspace and Microsoft 365
+- Client Operations, documentation, case tracking and onboarding
 
----
+## Experience snapshot
 
-## 🌍 Availability
+- Client Operations Specialist at Cero Agency — B2B contractor via Valls Solutions LLC
+- Senior ICT Technician / Systems Administrator at Foment Formació
+- Additional technical research in blockchain security and risk analysis
+- Additional experience creating and managing live-stream content on Twitch
 
-Open to fully remote opportunities in:
+## Availability
 
-Cloud Systems • Backend Development • Technical Operations • Security
+Based in Thailand (GMT+7) | Seeking international remote roles | B2B contracting available via a U.S. LLC where appropriate.
 
----
+## Languages
 
-## 🔗 More Information
+Spanish and Catalan — Native | English — C1 (EF SET 63/100, 2026)
 
-- GitHub Profile: https://github.com/ovallsn
-- LinkedIn: https://linkedin.com/in/oriol-valls-n%C3%BA%C3%B1ez-207148158/
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/oriolvallsn/)
+- [GitHub profile](https://github.com/ovallsn)
+
+The PDF files in this repository are the public application versions. Editable Word originals are kept separately for manual updates when needed.
